@@ -18,7 +18,7 @@ main:
     url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://smith-ryan1.github.io/Ryan-Smith-Portfolio/portfolio
         
   - title: "Blog Posts"
     url: /year-archive/
