@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Ryan Smith"
-description              : &description "I am an appalachian citizen with goals of leaving, soon. I hope cybersecurity provides me with the ability to go out and do other things, explore new places, and travel."
+description              : &description ""
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ryan Smith"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I am an appalachian citizen with goals of leaving, soon. I hope cybersecurity provides me with the ability to go out and do other things, explore new places, and travel."
+  location         : "Athens, Oh"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sryan5022@gmail.com" 
 
   # Academic websites
   academia         : # URL
