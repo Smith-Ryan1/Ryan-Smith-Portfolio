@@ -4,7 +4,7 @@ title: "A subset of ramblings: An acedemic journal."
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.md
+  - /about.html
 ---
 
 # What is this page, and what is it for?
