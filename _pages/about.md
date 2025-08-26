@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "A subset of ramblings: An acedemic journal."
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.md
+---
+
 # What is this page, and what is it for?
 This page serves as a digital manifestation and collection of what I would deem to be my greatest acheivements during not only my education, but also my professional career. It will be amended as time goes on with new stuff added in as I see fit. It shall be used as an example to employers why they I am a good canidate for the position. It will also serve valuable in the event that I wish to seek an education higher than the one I am obtaining now, as not only a refernece guide, but also as a show of experience for grad school. 
 
