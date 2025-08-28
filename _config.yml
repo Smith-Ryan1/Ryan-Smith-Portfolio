@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I am an appalachian citizen with goals of leaving, soon. I hope cybersecurity provides me with the ability to go out and do other things, explore new places, and travel."
   location         : "Athens, Oh"
-  employer         : "Red Brick University"
+  employer         : "Dollar General"
   uri              : # URL
   email            : "sryan5022@gmail.com" 
 
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
