@@ -13,14 +13,12 @@ WEEK ONE WILL BE ADDED SOON
 Ram has two major types, SRAM and DRAM. SRAM retains information written onto it as long as power is supplied. DRAM stores binary signals as electrical impulses and could need to be recharged after a period of time.
 <br><br>
 DRAM also has many different categories, including:
-<br><br>
-ADRAM Asynchronous DRAM: a memory controller determines the timing of data impulses, the CPU must account for this delay.
-<br><br>
-SDRAM Sychronous DRAM: The timing of the data impulses from the RAM is tied to the CPUs internal clock.
-<br><br>
-DDR SDRAM Double data rate: Like SDRAM except it impulses on both ends of the CPU's clock cycle.
-<br><br>
-RDRAM Rambus DRAM: transfers the data signals much faster over a smaller CPU-memory bus.
+|Type of Ram| Its use|
+|----|-----|
+|ADRAM Asynchronous DRAM| a memory controller determines the timing of data impulses, the CPU must account for this delay.|
+|SDRAM Sychronous DRAM| The timing of the data impulses from the RAM is tied to the CPUs internal clock.|
+|DDR SDRAM Double data rate| Like SDRAM except it impulses on both ends of the CPU's clock cycle.|
+|RDRAM Rambus DRAM| transfers the data signals much faster over a smaller CPU-memory bus.|
 
 Cache DRAM: uses a cache system using SRAM that allows the main DRAM work faster by having information on hand.
 
