@@ -24,4 +24,9 @@ DRAM also has many different categories, including:
 Storage drives in computers allow it to, obviously, store data. There are two main different types of storage drive, those being HDDs and SSDs. HDDs, Hard Disk Drives, contain magnetic, spinning disks. These disks spin at reletively low RPMs, which dictate how fast your computer can read the data, making them a bit slower than SSDs. Furthermore, this spinning requires power, and generates heat. SSDs, Solid State Drives, rely on flash data, making them faster. They also have no moving parts making them more heat effiecent and less likely to be damaged from blunt force trauma. SSDs however, are more expensive than HDDs, making them a less budget friendly option.
 <Br><Br>
 
+![Motherboard](https://github.com/user-attachments/assets/1149cb1f-5de1-4cae-9295-bb344f19e765)
 
+1: PCI connector
+2: Power connector
+3: CPU
+4: Ram Slot
