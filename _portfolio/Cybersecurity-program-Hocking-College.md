@@ -9,9 +9,8 @@ WEEK ONE WILL BE ADDED SOON
 
 <a id="week_02"></a><br><br>
 # Week Two: Hardware Components Page
-<br><br>
+
 Ram has two major types, SRAM and DRAM. SRAM retains information written onto it as long as power is supplied. DRAM stores binary signals as electrical impulses and could need to be recharged after a period of time.
-<br><br>
 DRAM also has many different categories, including:
 |Type of Ram| Its use|
 |----|-----|
