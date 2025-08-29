@@ -12,7 +12,7 @@ WEEK ONE WILL BE ADDED SOON
 
 Ram has two major types, SRAM and DRAM. SRAM retains information written onto it as long as power is supplied. DRAM stores binary signals as electrical impulses and could need to be recharged after a period of time.
 DRAM also has many different categories, including:
-
+<br><br>
 |Type of Ram| Its use|
 |----|-----|
 |ADRAM Asynchronous DRAM| a memory controller determines the timing of data impulses, the CPU must account for this delay.|
