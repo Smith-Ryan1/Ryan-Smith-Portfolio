@@ -31,7 +31,7 @@ Storage drives in computers allow it to, obviously, store data. There are two ma
 3: CPU
 4: Ram Slot
 
-### HDDS vs SDDS vs SSHD
+# HDDS vs SDDS vs SSHD
 
 Ultimately, storage devices depend on two things, cost and storage nessesity, which are dependent on the user. 
 HDDS are ultimately the budget option. They are typically larger, but read slower, and, again, cost less. As such, I would suggest this in the event you do not need fast file loading, this is a good storage drive for your day to day web browsing.
