@@ -1,6 +1,6 @@
 ---
 title: "Security Awareness"
-excerpt: "A collection Assignments from my Security Awareness Class at Hocking College"
+excerpt: "A collection of Assignments from my Security Awareness Class at Hocking College"
 collection: portfolio
 ---
 
