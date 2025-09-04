@@ -1,6 +1,6 @@
 ---
 title: "Computer Hardware And Operating Systems"
-excerpt: "A collection Assignments from my Computer Hardware Class at Hocking College"
+excerpt: "A collection of Assignments from my Computer Hardware Class at Hocking College"
 collection: portfolio
 ---
 
