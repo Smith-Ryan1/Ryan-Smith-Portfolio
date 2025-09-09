@@ -1,0 +1,11 @@
+
+
+
+
+
+
+<img width="1133" height="255" alt="Screenshot 2025-09-03 160346" src="https://github.com/user-attachments/assets/7cb34ed0-e2eb-462d-b801-589911971043" />
+
+A star topography is a network whos topographical layout resembles that of, of course, a star. It typically features one switch with multiple connected end devices, however, in this example, I have two sudo star topographies connceted togeather via a router, a star within a star if you will. 
+
+I used copper straight throughs to connect each device to one another, and configured my left hand topography to be x.x1 IP addresses, and my right being x.1x so as to not get them confused. I set up the routers ports to be that of the default gateway of the various end devices and thus was able to ping from different LANS. 
