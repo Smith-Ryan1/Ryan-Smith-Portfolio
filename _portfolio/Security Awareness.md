@@ -12,3 +12,6 @@ I decided to look more into the Israeli NSO group and their Pegasus Spyware. It 
 All information found on this topic was provided by Britannica at https://www.britannica.com/topic/Pegasus-spyware
 
 So, if this kind of malware just infects your system through seemingly legitimate downloads, what can you do? The best thing you can do is set up a tier system for downloads, set up a scanner for new downloads, and scan files after you download them. This combined with a reliable anti-spyware program will keep you from being tracked as more often than not, the spyware will be caught. 
+
+# Password tip
+It is advicable to make your password long, but unique and easy to remember, instead of complicated.
