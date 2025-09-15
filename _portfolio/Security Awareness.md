@@ -15,3 +15,22 @@ So, if this kind of malware just infects your system through seemingly legitimat
 
 # Password tip
 It is advicable to make your password long, but unique and easy to remember, instead of complicated.
+
+### Week four: Malware Awareness
+
+
+I would say my five best security tips are to: 
+
+never answer phone calls with "yes" as people can then use a recording of your affirmation and use that to make transactions
+
+never give personal information to people you do not know over the phone or email
+
+Never click on links you do not know the validity of.
+
+Double-check a email senders spelling and grammar as many incorrect spellings can be an indicator of a malicious actor.
+
+And to just always be cautious when recieving email, even if it is addressed as someone you know, people can easilly change their address name when sending an email.
+
+Malware comes in many different forms, some you have to activate, others activate themselves. Regardless, you should always scan downloads for malicious code, never download anything from suspicious looking sites, and do not click on links sent to you by unknown persons. Avoid these and you should be fine.
+
+Cybersecurity awareness month is a good time for those that know about cyberthreats to teach the young and old that may not realize exactly what damage attackers can do. It is also a perfect time to take invintory of devices and ensure that there is nothing malicious lying dormant in ones system.
