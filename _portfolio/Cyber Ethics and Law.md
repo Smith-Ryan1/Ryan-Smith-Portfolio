@@ -43,9 +43,11 @@ During the first hour, you are trying to minimize damage as much as possible and
 
 • Next Step: Recommend [ensure emails cannot be received from sender, ensure staff is aware to not share login credentials to sender] (handoff to Upper management staff)
 
-##Integrity and privacy controls
+## Integrity and privacy controls
+
 Hash can be utilized for artifacts to make sure changes that people say happened, actually do, and hold accountability for any unauthorized actions that took place. Store them in a very secure enviroment, so that only those with authorization can access the files, let alone change them. Redactions should occur on things that are not 100% nessesary, or out of scope. PII and such would just bog down the investigation.
 
-##Reflection
+## Reflection
+
 I want to look over some professional examples of first hour priorities in businesses, ultimately if I wish to be in this field I need to learn how to thing link a professional. That being said I do not believe my priorities are bad, knowledge is power, attacks are repeated. If you know everything there is to know about how to identify an attack, you can prevent it before anything bad happens. However, I would still like to learn more professional vocabulary to better refine my priority list. 
 
