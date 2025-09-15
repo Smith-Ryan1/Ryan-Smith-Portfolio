@@ -16,7 +16,7 @@ So, if this kind of malware just infects your system through seemingly legitimat
 # Password tip
 It is advicable to make your password long, but unique and easy to remember, instead of complicated.
 
-### Week four: Malware Awareness
+# Week four: Malware Awareness
 
 
 I would say my five best security tips are to: 
