@@ -5,49 +5,46 @@ collection: portfolio
 ---
 
 
-# OSS and Disclosure Readiness
-### License choice
-I believe if I were to choose a open source license I would choose Apache. I feel it is the most middle ground of the three, requiring you to distribute changes to the source code while keeping patents. The original creators of works should see some sort of benifit from what they do, however, information should be readilly available and easy to access. 
+# Executive Summary
 
-### SIV (Safe Initial Vulnerability) Report
-[reporting template.docx](https://github.com/user-attachments/files/22142433/reporting.template.docx)
+  The city of Columbus experienced a Ransomware attack on July Eighteenth. To our current knowledge this attack could impact an estimated five hundred thousand residents and has impacted our city infrastructure with shutdowns to remain until this issue is resolved. Residents' data could have been compromised including: Date of birth, Names and Addresses, Bank information, Drivers licence information, Social security information, and other data we are currently unaware of. This data is on a case by case basis and one person's information could have been stolen while others may not. 
 
-The template provided is a rephrasing of the template provided by cisa.gov at https://www.cisa.gov/vulnerability-disclosure-policy-template?utm_source=chatgpt.com I have simply reworded most parts into a more re-constructable phrasing for future use. Most of the information provided by the template was perfectly applicable, if a bit wordy.
+  To any Columbus residents affected by this attack, we are offering free credit monitoring services through Experian, please use the link provided at www.notalink.com and use your activation code provided to activate the service for one (1) year.
 
-### Artifacts
-[Weekly reflection- wk3- SmithRyan (1).docx](https://github.com/user-attachments/files/22143106/Weekly.reflection-.wk3-.SmithRyan.1.docx)
-[Open Source, Closed Eyes- Case breif 3- SmithRyan.docx](https://github.com/user-attachments/files/22143109/Open.Source.Closed.Eyes-.Case.breif.3-.SmithRyan.docx)
+  We are actively working to fix this issue, whereupon we seek to have more backups of data to assist in mitigating this from happening in the future.
 
-### Whats next?
-I want to look more deeply at some of the different creative commons licenses as that seems to be a mess within itself. However, with the symbol system it uses it should not be too hard to differentiate the nuancies of each licence. I can only see me learning more about different copyleft and right policys as a benifit as I do not know when, not if but when, I will use open source material and I wish to attribute properly.
+# Incident Report
 
-# Incident responce and evidence notes
+  Unfortunately, our staff downloaded a malicious file from a seemingly safe website, this file allowed the ransomware attackers to access our systems, whereupon our IT department noticed the issue but we were unable to stop the attack before it got vital information. We strive to uphold the ACM cyberethics framework, primarily code 3.7 in that we wish to keep any systems that have information about city infrastructure secure, and we have failed. 
 
-### First hour priorities
-During the first hour, you are trying to minimize damage as much as possible and then gather information about why this happened. My first priority is containment, find the infiltrator, close off any possible in points it could have, then close off its exits, trap it, contain it to one place. Figure out why it is here, what it was attempting to do, make sure there is no damage caused to the machine. Every bit of knowledge about a potentially reoccuring threat is helpful knowledge. 
+  When our IT offices discovered the attack, the head of IT at the Columbus statehouse immediately drafted a report to be sent to our Chief Information Officer to state the severity of the attack while we sought to fix the issue. We have also hired a legal team as well as private cybersecurity investigators to ensure that the people responsible for this attack are found and punished, as well as making sure our city systems are back online in a timely manner. 
 
-## Artifact: Incident and evidence response note
-• Incident # 55671
+# Suggested New Policy
 
-• Timestamp (UTC) & Context: [2025-09-11 09:08 UTC] — Initial incident declaration: notified by [Sam Rivera/ Chief security analyst] that [Phishing emails were sent to staff to collect login credentials, using a fake dev webinar login ]. Ticket created with [Phishing]. 
+  Due to the secure nature of our work and the data we attempt to secure, this policy should not be used by anybody other than the government of the city of Columbus to avoid having too similar policies in case this policy is compromised.
 
-• Authorization: [Sam Rivera / Chief security analyst] approved [blacklisting the sender] on [email services] for [four weeks, or until the email address provides non-malicious traffic].
+  We will better monitor port access and user access to ensure only secure, authorized traffic gets in. We will monitor user website traffic to better monitor what users go to, to avoid this issue from happening again. To that end, we will only capture website traffic from non-approved sites. Email, Government websites, and any productive use will not be monitored. That being said, any outbound traffic will be monitored, and any personal identifiable information will be redacted should we need to make a report based off of the traffic. We will keep any necessary outbound traffic or unapproved website searches for a period of ninety days, at which point it will be deleted from our servers. 
 
-• Actions Taken: Ran [traceroute] on [PC 1]; collected [port of entry for malicious email]; isolated [PC 1] per approval 
+  We will disclose any incidents according to federal and state laws, however, we will not immediately disclose any information that is still pending an investigation. As such we will have to disclose that an investigation is still ongoing should the time come. 
 
-• Evidence Captured: Item [email file] — SHA-256: [1b6ffed2deb904d1b42aa7072f1cb3c604f2aa8a3f85b4f2021121fc3837caae] — Why: [Email is directly linked to possible security breach as main culprit] 
+  Upon completion of our updated security infrastructure we wish to conduct a pentest, as such, certain rules of engagement must be followed for the testers. We wish for them to primarily test our websites and see how easy it is to add malicious code embedded into downloadable files. Further testing is desired to be done in regards to stress testing our servers as well as possible phishing threats. Our main government office will also be tested after hours to ensure security.
 
-• Chain of Custody: Stored at [PC Alpha]; access: [Sam Rivera/ 09:09, John Smith / 10:01]; transfer records kept. 
+  This is to say that, should the scope be violated in any way shape or form, we will stop testing, should any further testing be done in the force-stop we will take legal action. Should police be notified of your testing, a force-stop will also be instituted.
+  
+  AI will be used in security operations to handle menial tasks such as email verification to avoid phishing emails and other tasks that would take up valuable time ensuring the security of our data from active attackers. This being said, we will have an appeals process, including a form you can fill out and we will manually look at the offending email to not only ensure the AI was correct, but if it was wrong, use the email to train the AI to better handle phishing threats. Any personal identifiable information will be redacted from the email and kept in a secure server for ninety days while we educate the AI. All manual revisions will be handled by the head of IT, who will also be responsible for training the AI.
 
-• Redaction: no redactions made, should one need to be made, keep an unredacted file. 
+# Controls and Trade-offs
 
-• Next Step: Recommend [ensure emails cannot be received from sender, ensure staff is aware to not share login credentials to sender] (handoff to Upper management staff)
+  Due to the nature of this attack simply being a flaw in training and realization of the fault of one person, simply retraining staff on proper netiquette could be enough, however when it comes to protecting data, too much is never enough. We believe that monitoring website traffic and prohibiting the use of non-government related surfing is reasonable enough in this situation.
 
-## Integrity and privacy controls
+  Of course, we expect some fall back from this decision, mainly from our stakeholders, but as well as potential staff. We hold firm in our belief that this incident should never have happened and that these steps will ensure that such unnecessary slipups do not happen again. 
 
-Hash can be utilized for artifacts to make sure changes that people say happened, actually do, and hold accountability for any unauthorized actions that took place. Store them in a very secure enviroment, so that only those with authorization can access the files, let alone change them. Redactions should occur on things that are not 100% nessesary, or out of scope. PII and such would just bog down the investigation.
+  We seek to have the new changes implemented before the end of the fiscal quarter to avoid any further wavering trust in the state government, and prevent any other attacks from happening while we are crippled from this one.
 
-## Reflection
-
-I want to look over some professional examples of first hour priorities in businesses, ultimately if I wish to be in this field I need to learn how to thing link a professional. That being said I do not believe my priorities are bad, knowledge is power, attacks are repeated. If you know everything there is to know about how to identify an attack, you can prevent it before anything bad happens. However, I would still like to learn more professional vocabulary to better refine my priority list. 
+# Conclusions
+ 
+  Ultimately, we were sloppy, an employee thought it was a good idea to download non-approved files onto his workstation. However, this begs the question of could it have been prevented if laws requiring government officials to be trained on how to properly use the internet before holding office were in place. Some could say that it is the responsibility of the employer to train employees, but how far does this go? This being said, regardless of technical legality we will be changing our policies to better train staff on the proper use of workstations and network access will be limited to only websites that prove to be necessary for the job, with special requests being in place should the need arise.
+  
+  While we do anticipate some negative reactions to our use of AI to block phishing attacks, we assure that this is the best way to go forward as this will allow our IT department to have more time ensuring our network is secure and no breaches are actively occurring without notice.
+We seek to make the process of dealing with these attacks more efficient going forward, faster response times, more concise access to forms for reporting to the Chief information officer. Potentially taking out that step entirely is the goal for smaller scale attacks, while this was a large scale attack it is something worth looking into for future use.
 
