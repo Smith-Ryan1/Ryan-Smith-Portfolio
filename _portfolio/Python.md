@@ -1,5 +1,5 @@
 ---
-title: "Python Essentialls"
+title: "Python Essentials"
 excerpt: "My final project from Python essentials from Hocking College"
 collection: portfolio
 ---
